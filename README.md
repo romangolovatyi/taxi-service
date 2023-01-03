@@ -8,7 +8,7 @@ This is a simple application that allows you to work with a taxi service. This a
 4. Create the shema with tables using a script from [this](src/main/resources/init_db.sql) file
 5. Configure [ConnectionUtil.java](src/main/java/taxi/util/ConnectionUtil.java) file
 6. Install Apache Tomcat v8.5.83 or later
-7. [Configure Apache Tomcat in JDK](#configure-apache-tomcat)
+7. [Configure Apache Tomcat in JDK](https://www.jetbrains.com/help/idea/run-debug-configuration-tomcat-server.html)
 8. Click on debug on the toolbar to use the application
 ## ⚙ Technologies
 ### **Web**
